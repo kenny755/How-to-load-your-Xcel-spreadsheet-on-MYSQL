@@ -41,6 +41,24 @@ Create Database and Table in MySQL: Use SQL scripts to create the necessary data
 
 Import the CSV File into MySQL Workbench: Utilize MySQL Workbench’s "Table Data Import Wizard" to upload the CSV file into your table.
 Verify and Clean Data: After the import, you may need to run some SQL queries to verify the data and handle any inconsistencies.
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(6).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(7).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(8).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(9).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(10).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(11).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(12).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(13).png)
+
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/7e5fbf84b5bfbed36be6b1d6d9267ec3ecd42992/Screenshot%20(15).png)
+
 Why This Repository?
 As a beginner working with MySQL and Excel, it can be challenging to understand the full workflow of importing data. This repository is designed to simplify the process, provide hands-on examples, and guide you step-by-step through each phase of the import process. By following this guide, you'll be able to confidently load and manage your spreadsheet data in MySQL, which is a critical skill for anyone working with databases.
 
