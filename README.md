@@ -1,4 +1,7 @@
 # How-to-load-your-Xcel-spreadsheet-on-MYSQL
+
+
+
 Repository Overview
 Welcome to my Excel to MySQL repository! This repository contains step-by-step instructions and example code on how to import data from an Excel spreadsheet into a MySQL database using MySQL Workbench. If you're a beginner or intermediate user looking to integrate spreadsheet data into MySQL, this guide and collection of resources will help you get started quickly.
 
@@ -22,8 +25,16 @@ The process of importing data from Excel into MySQL Workbench typically involves
 
 Prepare Your Excel Spreadsheet: Clean up the data by removing unnecessary columns, correcting data types, and ensuring all fields are consistent (e.g., date formats, numeric values).
 Export Data to CSV: While MySQL Workbench does not directly import Excel files, you can save your Excel data as a CSV (Comma-Separated Values) file.
+
 ![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/fe4122734ddae3576fdeb9c36cecef886a2d5835/Screenshot%20(1).png)
+
+
 Create Database and Table in MySQL: Use SQL scripts to create the necessary database and table structure to hold the data.
+
+![image alt]https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/f57a5b70f789b63e1d2784285289bb00608a278a/Screenshot%20(2).png
+
+![image alt]https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/f57a5b70f789b63e1d2784285289bb00608a278a/Screenshot%20(3).png
+![image alt]https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/f57a5b70f789b63e1d2784285289bb00608a278a/Screenshot%20(4).png
 Import the CSV File into MySQL Workbench: Utilize MySQL Workbench’s "Table Data Import Wizard" to upload the CSV file into your table.
 Verify and Clean Data: After the import, you may need to run some SQL queries to verify the data and handle any inconsistencies.
 Why This Repository?
