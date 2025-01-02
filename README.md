@@ -22,6 +22,7 @@ The process of importing data from Excel into MySQL Workbench typically involves
 
 Prepare Your Excel Spreadsheet: Clean up the data by removing unnecessary columns, correcting data types, and ensuring all fields are consistent (e.g., date formats, numeric values).
 Export Data to CSV: While MySQL Workbench does not directly import Excel files, you can save your Excel data as a CSV (Comma-Separated Values) file.
+https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/main/Screenshot%20(1).png?raw=true
 Create Database and Table in MySQL: Use SQL scripts to create the necessary database and table structure to hold the data.
 Import the CSV File into MySQL Workbench: Utilize MySQL Workbench’s "Table Data Import Wizard" to upload the CSV file into your table.
 Verify and Clean Data: After the import, you may need to run some SQL queries to verify the data and handle any inconsistencies.
