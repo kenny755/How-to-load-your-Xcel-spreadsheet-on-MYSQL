@@ -1,4 +1,14 @@
 # How-to-load-your-Xcel-spreadsheet-on-MYSQL
+![image alt](https://github.com/kenny755/How-to-load-your-Xcel-spreadsheet-on-MYSQL/blob/6530fb9c9281c6c578afc83ab98c12fa82962137/kaggle_to_powerbi.gif)
+
+
+# TABLE OF CONTENTS
+- [Repository Overview](#Repository-overview)
+- [What's Included](#What's-Incuded)
+- [Create Database and Table in MySQL](#Create-Database-and-Table-in-MySQL)
+- [Import the CSV File into MySQL Workbench](#Import-the-CSV-File-into-MySQL-Workbench)
+- [Why This Repository?](#Why-This-Repository?)
+- [Future Improvements](#Future-Improvements)
 
 
 
