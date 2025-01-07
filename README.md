@@ -2,19 +2,19 @@
 
 
 
-Repository Overview
+##Repository Overview
 Welcome to my Excel to MySQL repository! This repository contains step-by-step instructions and example code on how to import data from an Excel spreadsheet into a MySQL database using MySQL Workbench. If you're a beginner or intermediate user looking to integrate spreadsheet data into MySQL, this guide and collection of resources will help you get started quickly.
 
-What’s Included
-This repository includes:
+#What’s Included
+##This repository includes:
 
-Detailed Steps: A guide to walk you through the entire process of loading data from an Excel file (.xlsx) into MySQL Workbench.
+#Detailed Steps: A guide to walk you through the entire process of loading data from an Excel file (.xlsx) into MySQL Workbench.
 Sample Excel Files: Example Excel spreadsheets with sample data that you can use to practice the import process.
 SQL Scripts: SQL commands and queries to create the database tables and import the data.
 Best Practices: Tips and recommendations for cleaning and preparing your Excel data for import into MySQL, such as formatting cells, handling special characters, and managing large datasets.
 Troubleshooting: Common issues you may encounter during the import process, along with solutions and explanations.
 Learning Objectives
-This repository aims to help you:
+##This repository aims to help you:
 
 Learn how to prepare and format Excel data for importing into MySQL.
 Understand how to use MySQL Workbench’s built-in import functionality to load Excel data into a MySQL database.
